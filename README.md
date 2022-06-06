@@ -1,37 +1,32 @@
 # **Takım İsmi**
 
-Takım X
+Takım 196
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Ömer Boz: Produt owner and Developer
+- İremnur Koç: Scrum Master
+- Bahar Akkoyun: Developer
+- Selen Akpınar: Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Hesap Makinesi --
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- 4 işlem yapmaya yarayan bir hesap makinesi
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 4 işlem yapması.
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Erişebilecek olan herkes.
 
 ## Product Backlog URL
 
