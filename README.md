@@ -34,7 +34,7 @@ Takım 196
 
 ---
 
-# Sprint 1
+# Sprint 3
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
@@ -64,16 +64,3 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
--**Diğer Notlar**:
-- N/A
-
----
-
-# Sprint 2
-
-
----
-
-# Sprint 3
-
----
