@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/hesap_makinesi/BuildConfig.java
+ com.example.hesap_makinesi.BuildConfig
